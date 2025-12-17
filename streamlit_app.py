@@ -65,7 +65,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 style="text-align:center;">E2EE SERVER</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align:center;">RK RAJA E2EE SERVER</h1>', unsafe_allow_html=True)
 
 
 # ---------------- SESSION ----------------
