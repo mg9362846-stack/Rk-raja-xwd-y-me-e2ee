@@ -38,7 +38,7 @@ def render_live_console():
 st.markdown("""
 <style>
 .stApp {
-    background: url('<a href="https://ibb.co/V0tktYJH"><img src="https://i.ibb.co/HLV9VTBN/grok-1765730858767.jpg" alt="grok-1765730858767" border="0"></a>') no-repeat center center fixed !important;
+    background: url('<a href="https://ibb.co/Hp9Nf92C"><img src="https://i.ibb.co/CsSJ3St6/anime-anime-boys-satoru-gojo-jujutsu-kaisen-blue-eyes-hd-wallpaper-preview.jpg" alt="anime-anime-boys-satoru-gojo-jujutsu-kaisen-blue-eyes-hd-wallpaper-preview" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/math-keyboard'>greek letters copy paste</a><br />') no-repeat center center fixed !important;
     background-size: cover !important;
     background-position: center !important;
     background-attachment: fixed !important;
